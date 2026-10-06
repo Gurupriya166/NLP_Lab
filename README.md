@@ -1,2 +1,2 @@
 # NLP_Lab
-Natural language processing and it's techniques laboratory
+Natural language processing and its techniques laboratory
